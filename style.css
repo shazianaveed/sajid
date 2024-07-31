@@ -1,0 +1,21 @@
+.box{
+    background-color: red;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    padding: 30px;
+    border-radius: 50px;
+    background-image: url(https://media.istockphoto.com/id/174655938/photo/rose-background.jpg?s=1024x1024&w=is&k=20&c=pGDOZrqVKxiYK46Ts9bcGwmhXVFPpGaJ3NI4F_kUVgE=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: greenyellow;
+    box-shadow: 7px 7px 5px 4px greenyellow;
+    border: double;
+    text-decoration: dotted;
+
+}
+img{
+    border-radius: 100px;
+    border: dotted;
+}
